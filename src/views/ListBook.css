@@ -1,0 +1,15 @@
+.ListBook {
+    text-align: center;
+    left: 50%;
+    width: 100%;
+    background-color: aqua;
+}
+
+.ListBook span {
+    color: black;
+    text-transform: uppercase;
+    display: block;
+    font-size: 60px;
+    font-weight: 700;
+    animation: text 3s 1;
+}
